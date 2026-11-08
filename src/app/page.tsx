@@ -122,6 +122,7 @@ export default function Home() {
         <footer className="disclaimer"><ShieldAlert size={15} /><span>IA-Scout es una herramienta de apoyo al análisis. La decisión final corresponde al cuerpo técnico.</span><button title="Los indicadores son orientativos y no sustituyen la evaluación profesional." aria-label="Más información"><CircleHelp size={15} /></button></footer>
       </div>
     </main>
+    <p>Proyecto final de la materia Ingeniería de software - Roberto Oswaldo Bañuelos Gallo - 221757233</p>
   </div>;
 }
 
